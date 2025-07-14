@@ -1,4 +1,5 @@
 # Sample Hardhat Project
+<img width="1620" height="1020" alt="ba347582451ea6acb68ce20adc823671" src="https://github.com/user-attachments/assets/67991e5b-5e67-40e0-ad71-7f0e2739b813" />
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
@@ -10,7 +11,7 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
-```<img width="1607" height="1030" alt="image" src="https://github.com/user-attachments/assets/f6687bc3-df33-42a7-a17c-19c86b1a1f21" />
+
 
 #代币合约 (ERC-20) 项目需求文档
 项目概述
